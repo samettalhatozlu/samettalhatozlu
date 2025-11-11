@@ -1,14 +1,14 @@
-## 👋 Merhaba, Ben Samet Talha Tozlu!
+## 👋 Merhaba!
 
 ### 📊 Profesyonel Kimlik
 
-Ben **Samet Talha Tozlu**, teknoloji ile iş süreçlerini birleştirerek yenilikçi çözümler üretmeyi hedefleyen bir profesyonelim.
+Teknoloji ve iş süreçlerini entegre ederek kurumsal verimliliği artıran ve yenilikçi çözümler geliştirmeye odaklanmış bir İş Analistiyim.
 
-* **Güncel Rol:** **İş Analisti (Business Analyst)** olarak **Avsos**'ta görev alıyorum.
-    * **Uzmanlık Alanı:** Havacılık sektörüne yönelik yazılım projelerinde; **analiz, test ve müşteri iletişimi** süreçlerinin yönetilmesi.
-* **Akademik Geçmiş:**
+* **Mevcut Görev:** **Avsos** bünyesinde **İş Analisti (Business Analyst)**.
+    * **Uzmanlık Alanım:** Havacılık sektörüne yönelik yazılım projelerinde; **analiz, test ve müşteri iletişimi** süreçlerinin yönetilmesi.
+* **Akademik Kariyer:**
     * **Yüksek Lisans (MSc):** Yönetim Bilişim Sistemleri (MIS), İstanbul Üniversitesi (Devam Ediyor).
-    * **Lisans:** İzmir Demokrasi Üniversitesi'nde aldığım eğitim sırasında proje yönetimi, iş analizi ve yapay zeka alanlarında bilgi ve deneyim kazandım.
+    * **Lisans:** İzmir Demokrasi Üniversitesi'nde aldığım eğitimle proje yönetimi, iş analizi ve yapay zeka alanlarında güçlü bir temel edindim.
 
 ---
 
@@ -17,7 +17,7 @@ Ben **Samet Talha Tozlu**, teknoloji ile iş süreçlerini birleştirerek yenili
 #### 1. ⚙️ Programlama Dilleri & Geliştirme Araçları
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,mysql,git,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,mysql&perline=4" />
 </p>
 
 | Dil/Teknoloji | Açıklama |
