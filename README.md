@@ -43,8 +43,7 @@ Analiz süreçlerini teknik bilgiyle destekleyerek, ekipler arası güçlü bir 
 * **FinSimAI:**  
   Finansal riskleri analiz etmek için Monte Carlo simülasyonları kullanan veri bilimi projesi.
   
-* **OrientationManagementSystem (OMS):**  
-  İnsan kaynakları eğitim süreçlerini veriye dayalı analiz eden, AI destekli öğrenme yönetim platformu.  
+* **OpenSky iPaaS Platform:** Gerçek zamanlı uçuş verilerini yapay zeka desteğiyle işleyen ve kullanıcıya analiz, öngörü ve öneri sunan bir havacılık entegrasyon platformudur. 
 
 ---
 
