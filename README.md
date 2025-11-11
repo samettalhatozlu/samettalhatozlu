@@ -37,14 +37,14 @@ Analiz süreçlerini teknik bilgiyle destekleyerek, ekipler arası güçlü bir 
 
 ### 🚀 Öne Çıkan Projeler  
 
-* **OrientationManagementSystem (OMS):**  
-  İnsan kaynakları eğitim süreçlerini veriye dayalı analiz eden, AI destekli öğrenme yönetim platformu.  
-
 * **Taskera:**  
   Proje yönetim süreçlerini yapay zeka tahminleriyle optimize eden iş takip yazılımı.  
 
 * **FinSimAI:**  
-  Finansal riskleri analiz etmek için Monte Carlo simülasyonları kullanan veri bilimi projesi.  
+  Finansal riskleri analiz etmek için Monte Carlo simülasyonları kullanan veri bilimi projesi.
+  
+* **OrientationManagementSystem (OMS):**  
+  İnsan kaynakları eğitim süreçlerini veriye dayalı analiz eden, AI destekli öğrenme yönetim platformu.  
 
 ---
 
@@ -56,5 +56,4 @@ Analiz süreçlerini teknik bilgiyle destekleyerek, ekipler arası güçlü bir 
 
 ### 📬 İletişim  
 
-* <a href="https://www.linkedin.com/in/samettalhatozlu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a>  
-* <a href="mailto:samettalhatozlu3422@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25"/></a>
+<a href="https://www.linkedin.com/in/samettalhatozlu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/></a> <a href="mailto:samettalhatozlu3422@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="25"/></a>
