@@ -4,8 +4,7 @@
 
 İstanbul Üniversitesi’nde **Yönetim Bilişim Sistemleri** alanında yüksek lisans yapıyorum ve şu anda **Avsos**’ta **İş Analisti** olarak görev alıyorum. Havacılık sektörüne yönelik yazılım projelerinde; **analiz**, **test** ve **müşteri iletişimi** süreçlerini aktif olarak yönetiyorum.  
 
-İzmir Demokrasi Üniversitesi’ndeki lisans eğitimim süresince, **proje yönetimi**, **iş analizi** ve **yapay zeka** alanlarında bilgi ve deneyim kazandım.  
-Hedefim; teknoloji ile iş süreçlerini bir araya getirerek **yenilikçi, veri odaklı ve sürdürülebilir çözümler** üretmeye devam etmektir.  
+İzmir Demokrasi Üniversitesi’ndeki lisans eğitimim süresince, **proje yönetimi**, **iş analizi** ve **yapay zeka** alanlarında bilgi ve deneyim kazandım. Hedefim; teknoloji ile iş süreçlerini bir araya getirerek **yenilikçi, veri odaklı ve sürdürülebilir çözümler** üretmeye devam etmektir.  
 
 ---
 
