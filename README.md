@@ -1,6 +1,6 @@
 ## 👋 Merhaba, Ben Samet Talha Tozlu
 
-### 🎯 Hakkımda  
+### Hakkımda  
 
 İstanbul Üniversitesi’nde **Yönetim Bilişim Sistemleri** alanında yüksek lisans yapıyorum ve şu anda **Avsos**’ta **İş Analisti** olarak görev alıyorum. Havacılık sektörüne yönelik yazılım projelerinde; **analiz**, **test** ve **müşteri iletişimi** süreçlerini aktif olarak yönetiyorum.  
 
