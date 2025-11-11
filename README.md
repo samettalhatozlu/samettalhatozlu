@@ -1,16 +1,56 @@
-## Hi there 👋
+## 👋 Merhaba, Ben Samet Talha Tozlu!
 
-<!--
-**samettalhatozlu/samettalhatozlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Profesyonel Kimlik
 
-Here are some ideas to get you started:
+Ben **Samet Talha Tozlu**, teknoloji ile iş süreçlerini birleştirerek yenilikçi çözümler üretmeyi hedefleyen bir profesyonelim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Güncel Rol:** **İş Analisti (Business Analyst)** olarak **Avsos**'ta görev alıyorum.
+    * **Uzmanlık Alanı:** Havacılık sektörüne yönelik yazılım projelerinde; **analiz, test ve müşteri iletişimi** süreçlerinin yönetilmesi.
+* **Akademik Geçmiş:**
+    * **Yüksek Lisans (MSc):** Yönetim Bilişim Sistemleri (MIS), İstanbul Üniversitesi (Devam Ediyor).
+    * **Lisans:** İzmir Demokrasi Üniversitesi'nde aldığım eğitim sırasında proje yönetimi, iş analizi ve yapay zeka alanlarında bilgi ve deneyim kazandım.
+
+---
+
+### 💻 Yetenek Seti ve Teknolojiler
+
+#### 1. ⚙️ Programlama Dilleri & Geliştirme Araçları
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,mysql,git,vscode&perline=6" />
+</p>
+
+| Dil/Teknoloji | Açıklama |
+| :--- | :--- |
+| **Python** | Veri analizi, otomasyon ve makine öğrenimi projelerinin temel dili. |
+| **PHP** | Kurumsal web uygulamaları ve backend geliştirme. |
+| **JavaScript (JS)** | Dinamik web arayüzleri geliştirme. |
+| **MySQL** | İlişkisel veritabanı yönetimi ve karmaşık SQL sorgulama. |
+
+#### 2. 🧠 Yapay Zeka ve Uygulama Geliştirme
+
+* **Ollama/LangChain:** Yerel (On-Premise) Büyük Dil Modelleri (LLM) ve zincirleme yapay zeka uygulamaları geliştirme.
+* **AI API Entegrasyonu:** Farklı yapay zeka servislerinin (Örn: OpenAI, özel LLM'ler) uygulamalara entegrasyonu.
+* **Cursor:** Geliştirme sürecini hızlandırmak için kullanılan AI destekli kod düzenleyici kullanımı.
+* **Proje Yönetimi:** Çevik (Agile) ve Şelale (Waterfall) metodolojilerinde deneyim.
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+* **OrientationManagementSystem (OMS):** İK Yönetimi için çalışanların öğrenme süreçlerini izleyen ve yapay zeka chatbot ile destekleyen platform.
+* **Taskera:** Yapay Zeka destekli proje yönetimi yazılımı.
+* **FinSimAI:** Finansal risk analizi ve Monte Carlo simülasyonları projesi.
+
+---
+
+### 📈 GitHub İstatistiklerim (Önerilir)
+
+[![Samet Talha Tozlu'nun GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=samettalhatozlu&show_icons=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 💬 İletişim
+
+* **LinkedIn:** [https://www.linkedin.com/in/samettalhatozlu/](https://www.linkedin.com/in/samettalhatozlu/)
+* **E-posta:** samettalhatozlu3422@gmail.com
